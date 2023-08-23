@@ -9,7 +9,7 @@
 
 <h2 align="center">💼 See my projects at:</h2>
 <p align="center">
-  <a href="https://javierbscn.web.app/" title="Javier's Portfolio"> <img align="center" src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Github" /> </a>
+  <a href="https://javierbsc.web.app/" title="Javier's Portfolio"> <img align="center" src="https://img.shields.io/badge/portfolio-black.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Github" /> </a>
 </p><br>
 
 <h2 align="center">💻 Tech Stack:</h2>
