@@ -2,7 +2,7 @@
 
 <p align="center">I'm a Web Developer specialized on Frontend.<br>My goal is to exceed persons expectations and improve the quality of life for users who use my applications.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-boscan/" target"blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/javier-boscan/" target"blank"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Javierbscn" target"blank"><img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" /></a>
 </p>
 <br>
@@ -35,6 +35,10 @@
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   &nbsp;
+  <a href='https://react.dev/'>
+    <img src="https://img.shields.io/badge/react-58C4DC.svg?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  &nbsp;
   <a href='https://angular.io/'>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
   </a>
@@ -47,6 +51,10 @@
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
   &nbsp;
+  <a href='https://reactnative.dev/'>
+    <img src="https://img.shields.io/badge/react native-58C4DC.svg?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  &nbsp;
   <a href='https://jquery.com/'>
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   </a>
@@ -56,7 +64,7 @@
 <h4>Backend</h4>
 <p>
   <a href='https://firebase.google.com/'>
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/firebase-ffffff.svg?style=for-the-badge&logo=firebase&logoColor=ffc400" />
   </a>
   &nbsp;
   <a href='https://nodejs.org/'>
@@ -64,7 +72,7 @@
   </a>
   &nbsp;
   <a href='https://expressjs.com/'>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   </a>
   &nbsp;
   <a href='https://www.mongodb.com/'>
@@ -80,12 +88,20 @@
     <img src='https://img.shields.io/badge/git-F05032?logo=git&style=for-the-badge&logoColor=white' />
   </a>
   &nbsp;
-  <a href='https://webpack.js.org/'>
-    <img src='https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&style=for-the-badge&logoColor=black' />
+  <a href='https://www.docker.com/'>
+    <img src="https://img.shields.io/badge/docker-328eef.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   &nbsp;
   <a href='https://jasmine.github.io/'>
-    <img src="https://img.shields.io/badge/testing-purple.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
+    <img src="https://img.shields.io/badge/testing-purple.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href='https://vite.dev/'>
+    <img src='https://img.shields.io/badge/vite-9566fe?logo=vite&style=for-the-badge&logoColor=white' />
+  </a>
+  &nbsp;
+  <a href='https://webpack.js.org/'>
+    <img src='https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&style=for-the-badge&logoColor=black' />
   </a>
   &nbsp;
 </p><br>
